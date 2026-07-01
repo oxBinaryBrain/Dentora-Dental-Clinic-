@@ -1,0 +1,21 @@
+node_modules/
+dist/
+terminals/
+mcps/
+.playwright-mcp/
+
+# Dev screenshots and unused local assets
+dentora-*.png
+download.png
+hero-full.jpg
+hero-current.jpg
+hero-test*.jpg
+image.jpg
+img-*.jpg
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
